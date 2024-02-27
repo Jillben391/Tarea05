@@ -1,4 +1,4 @@
-package tarea6;
+
 
 
 import java.util.Scanner;
@@ -50,7 +50,7 @@ class SelectionSort {
 
 
 
-public class tarea6 {
+public class tarea5 {
       
 
 
